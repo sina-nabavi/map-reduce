@@ -1,5 +1,5 @@
 # map-reduce
-map reduce algorithm implementation in java using Kompics libarry to cound the words of a dictionary
+map reduce algorithm implementation in java using Kompics libarry to count the words of a dictionary
 
 
 
